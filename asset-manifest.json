@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gitfile/static/css/main.073c9b0a.css",
+    "main.js": "/gitfile/static/js/main.6b975845.js",
+    "static/js/787.23170c61.chunk.js": "/gitfile/static/js/787.23170c61.chunk.js",
+    "static/media/vivo.jpg": "/gitfile/static/media/vivo.058d62010c49937e43f0.jpg",
+    "index.html": "/gitfile/index.html",
+    "main.073c9b0a.css.map": "/gitfile/static/css/main.073c9b0a.css.map",
+    "main.6b975845.js.map": "/gitfile/static/js/main.6b975845.js.map",
+    "787.23170c61.chunk.js.map": "/gitfile/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6b975845.js"
+  ]
+}
